@@ -24,7 +24,7 @@ Now set this URL to our backend by calling this API with a post request
 https://oceancaller.herokuapp.com/setfilecoin
 params: 
 {
-  filecoinUrl: <NGROK URL FROM ABOVE>
+  filecoinUrl: `NGROK URL FROM ABOVE`
 }
 
 ## Running backend server
