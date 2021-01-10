@@ -1,14 +1,21 @@
-## Running the filecoin server
-> open cmd or terminal depending on the operating system
+## Running the Filecoin server
+
+- download the zip release file from https://github.com/textileio/powergate/releases/download/v1.2.6/powergate-docker-v1.2.6.zip
+- unzip the folder and run 
+```
+make localnet
+```
+or 
+- use the follwing commands
 > ```
 > wget https://github.com/textileio/powergate/releases/download/v1.2.6/powergate-docker-v1.2.6.zip
 > unzip powergate-docker-v1.2.6.zip
 > ```
-In the powergate folder run 
+In the powergate folder run the following command on cmd/terminal
 ```
 make localnet
 ```
-To expose port for the application use ngrok
+To expose port for the application use ngrok https://ngrok.com/
 > open cmd/terminal
 > ```
 > ngrok http 6001
