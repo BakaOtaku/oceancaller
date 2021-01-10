@@ -19,7 +19,7 @@ To expose port for the application use ngrok https://ngrok.com/
 > open cmd/terminal
 > ```
 > ngrok http 6002
-> 
+> https://oceancaller.herokuapp.com/setfilecoin
 > ```
 
 
