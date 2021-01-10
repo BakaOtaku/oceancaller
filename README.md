@@ -19,9 +19,13 @@ To expose port for the application use ngrok https://ngrok.com/
 > open cmd/terminal
 > ```
 > ngrok http 6002
-> https://oceancaller.herokuapp.com/setfilecoin
 > ```
-
+Now set this URL to our backend by calling this API with a post request
+https://oceancaller.herokuapp.com/setfilecoin
+params: 
+{
+  filecoinUrl: <NGROK URL FROM ABOVE>
+}
 
 ## Running backend server
 
