@@ -19,6 +19,7 @@ To expose port for the application use ngrok https://ngrok.com/
 > open cmd/terminal
 > ```
 > ngrok http 6002
+> 
 > ```
 
 
@@ -38,5 +39,8 @@ To expose port for the application use ngrok https://ngrok.com/
 > source venv/bin/activate
 > pip install -r requirements.txt
 > python web_app.py
-```
+> ```
+
+## or one can use the api and code deployed on our vim 
+* http://52.172.192.89:5000/
 
