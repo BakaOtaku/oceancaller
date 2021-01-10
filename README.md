@@ -1,3 +1,7 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/42104907/104137450-be83c680-53c2-11eb-8947-faf4c202e983.png" align="center" width="400"></p>
+<h1 align="center">OceanCaller</h1>
+<h4 align="center">The first decentralised caller Id app</h4>
+
 ## Running the Filecoin server
 
 - download the zip release file from https://github.com/textileio/powergate/releases/download/v1.2.6/powergate-docker-v1.2.6.zip
