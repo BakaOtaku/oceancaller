@@ -18,7 +18,7 @@ make localnet
 To expose port for the application use ngrok https://ngrok.com/
 > open cmd/terminal
 > ```
-> ngrok http 6001
+> ngrok http 6002
 > ```
 
 
