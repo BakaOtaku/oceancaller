@@ -49,6 +49,6 @@ params:
 > python web_app.py
 > ```
 
-## or one can use the api and code deployed on our vim 
+## or one can use the api and code deployed on our server
 * http://52.172.192.89:5000/
 
